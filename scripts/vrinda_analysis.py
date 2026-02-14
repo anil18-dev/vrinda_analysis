@@ -20,8 +20,7 @@ plt.style.use('seaborn-v0_8-darkgrid')
 sns.set_palette("husl")
 
 # Create output directory in phone storage
-OUTPUT_DIR = os.path.expanduser("~/storage/shared/vrinda_analysis_outputs")
-
+OUTPUT_DIR = "output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 print("Saving files to:", OUTPUT_DIR)

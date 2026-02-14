@@ -79,7 +79,7 @@ All outputs are stored inside the `output/` directory.
 2. Navigate into the project:cd vrinda_analysis
 3. Install dependencies:pip install -r requirements.txt
 4. Run the analysis:python scripts/vrinda_analysis.py
-   All results will be generated automatically in the `output/` folder.
+5. All results will be generated automatically in the `output/` folder.
 
 ---
 
